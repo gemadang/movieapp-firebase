@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieListApp2/DetailViews.swift"
+            timestampString = "545687478.269281"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieListApp2/LoginView.swift"
+            timestampString = "545619631.4454221"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "backgroundImageView"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieListApp2.LoginView.init(frame: __C.CGRect) -&gt; MovieListApp2.LoginView"
+                  moduleName = "MovieListApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/GeriElise/Documents/college/senior/mobile/ios_projects/MovieListApp2/MovieListApp2/LoginView.swift"
+                  timestampString = "545618547.290387"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "45">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "variable initialization expression of MovieListApp2.LoginView.backgroundImageView : __ObjC.UIImageView"
+                  moduleName = "MovieListApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/GeriElise/Documents/college/senior/mobile/ios_projects/MovieListApp2/MovieListApp2/LoginView.swift"
+                  timestampString = "545618547.294098"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __ObjC.UIImageView in variable initialization expression of MovieListApp2.LoginView.backgroundImageView : __ObjC.UIImageView"
+                  moduleName = "MovieListApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/GeriElise/Documents/college/senior/mobile/ios_projects/MovieListApp2/MovieListApp2/LoginView.swift"
+                  timestampString = "545618547.295957"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieListApp2.LoginView.backgroundImageView.getter : __ObjC.UIImageView"
+                  moduleName = "MovieListApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/GeriElise/Documents/college/senior/mobile/ios_projects/MovieListApp2/MovieListApp2/LoginView.swift"
+                  timestampString = "545618547.297824"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "109">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
